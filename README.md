@@ -1,6 +1,6 @@
 # vue_demo
 
-> A Vue.js project 简单的通讯录登录和好友列表
+> A Vue.js project 简单的通讯录登录和好友列表 k0504_phone_book为后端代码
 
 ## Build Setup
 

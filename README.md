@@ -1,6 +1,6 @@
 # vue_demo
 
-> A Vue.js project 一个简单的通讯录登录系统和好友列表
+> A Vue.js project
 
 ## Build Setup
 
